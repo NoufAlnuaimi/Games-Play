@@ -9,7 +9,9 @@ This main page includes the images that would give the gist of the theme of the 
 This page consists of the characters and flipping through them to pick which to play with.
 
 
-https://github.com/NoufAlnuaimi/Games-Play/assets/77782468/c13d353c-ea6b-4186-8184-e3ce64d7dff6
+https://github.com/NoufAlnuaimi/Games-Play/assets/77782468/bd2d2f0b-b116-4587-a561-1730b734295f
+
+
 
 
 ## Last UI 
