@@ -6,8 +6,7 @@ Games and Play class assignments
 
 
 ### Games & Play Assignment 2
-##### [Racing Game](https://github.com/NoufAlnuaimi/Games-Play/blob/main/Racing%20car%20game)
-
+##### [Racing Game](https://github.com/NoufAlnuaimi/Games-Play/tree/Assignment2)
 
 ### Games & Play Assignment 3
 ##### [Navmesh](https://github.com/NoufAlnuaimi/Games-Play/blob/main/Racing%20car%20game)
