@@ -1,13 +1,2 @@
-# Games-Play
-Games and Play class assignments 
-
-### Games & Play Assignment 1
-##### [Game UI](https://github.com/NoufAlnuaimi/Games-Play/blob/Assignments/README.md)
-
-
-### Games & Play Assignment 2
-##### [Racing Game](https://github.com/NoufAlnuaimi/Games-Play/blob/main/Racing%20car%20game)
-
-
-### Games & Play Assignment 3
-##### [Navmesh](https://github.com/NoufAlnuaimi/Games-Play/blob/main/Racing%20car%20game)
+# Racing Game 
+For this game, I created a forest like terrain with a lot of moutains to dictate the path rather than adding roads. For the car, I used a ready asset that I just applied to my own terrain. 
