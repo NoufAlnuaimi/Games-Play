@@ -3,8 +3,8 @@
 ## First UI 
 This main page includes the images that would give the gist of the theme of the game, game title, and the play button. The play button includes the animation (pressing down) and the matching sound.
 ![Uploading Screen Shot 2023-05-10 at 1.49.48 PM.png…]()
+<img width="1192" alt="Screen Shot 2023-05-10 at 1.49.48 PM" src="https://github.com/NoufAlnuaimi/Games-Play/assets/77782468/af874c03-4635-4cc9-a9c6-32a1251fe5f4">
 
-![Uploading Screen Shot 2023-05-10 at 1.49.48 PM.png…]()
 
 ## Second UI
 This page consists of the characters and flipping through them to pick which to play with.
