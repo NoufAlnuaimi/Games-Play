@@ -18,3 +18,4 @@ https://github.com/NoufAlnuaimi/Games-Play/assets/77782468/bd2d2f0b-b116-4587-a5
 The game over page includes an exit and replay buttons.
 
 <img width="1192" alt="Screen Shot 2023-05-10 at 1 49 18 PM" src="https://github.com/NoufAlnuaimi/Games-Play/assets/77782468/af874c03-4635-4cc9-a9c6-32a1251fe5f4">
+
